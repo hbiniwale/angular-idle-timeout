@@ -29,3 +29,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Blog how to implement in details 
 
 https://blog.bitsrc.io/how-to-implement-idle-timeout-in-angular-af61eefdb13b
+
+## Reference 
+
+InActive user to logout 
+https://medium.com/tinyso/how-to-detect-inactive-user-to-auto-logout-by-using-idle-timeout-in-javascript-react-angular-and-b6279663acf2
+
+
